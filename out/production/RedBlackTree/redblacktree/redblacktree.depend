@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1609162592 source:e:\nadah\college\third year\first term\algorithm analysis\redblacktree\redblacktree\main.cpp
+	<iostream>
+	<redblacktree.h>
+
+1609158333 e:\nadah\college\third year\first term\algorithm analysis\redblacktree\redblacktree\include\redblacktree.h
+	<iostream>
+
+1609162299 source:e:\nadah\college\third year\first term\algorithm analysis\redblacktree\redblacktree\src\redblacktree.cpp
+	"redblacktree.h"
+	<iostream>
+	<queue>
+
+1609162592 source:e:\nadah\college\third year\first term\algorithm analysis\redblacktree\20180309-20180055-20180322-20180094\redblacktree\main.cpp
+	<iostream>
+	<redblacktree.h>
+
+1609158333 e:\nadah\college\third year\first term\algorithm analysis\redblacktree\20180309-20180055-20180322-20180094\redblacktree\include\redblacktree.h
+	<iostream>
+
+1610196274 source:e:\nadah\college\third year\first term\algorithm analysis\redblacktree\20180309-20180055-20180322-20180094\redblacktree\src\redblacktree.cpp
+	"redblacktree.h"
+	<iostream>
+	<queue>
+
